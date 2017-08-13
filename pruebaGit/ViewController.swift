@@ -16,6 +16,9 @@ class ViewController: UIViewController {
     
     // funicionara...???
     
+    // Tenía una error al generar el Token; no había seleccionado las caracterisiticas del token
+    
+    
     
 
     override func viewDidLoad() {
