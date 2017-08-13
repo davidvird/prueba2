@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     
     // Prueba de Git Hub
     
-    // Segunda Prueba de Gigt Hub
+    // Segunda Prueba de Git Hub
 
     override func viewDidLoad() {
         super.viewDidLoad()
